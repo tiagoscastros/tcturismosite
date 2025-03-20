@@ -20,14 +20,14 @@ const About = () => {
     setIsOpen(false);
   };
   const imageLocations = [
-    { src: '/img4.jpeg', location: 'Portland, EUA' },
-    { src: '/img6.jpeg', location: 'Rio de Janeiro' },
-    { src: '/img7.jpeg', location: 'Vespasiano Correa' },
-    { src: '/img8.jpeg', location: 'Ciaton' },
-    { src: '/img3.jpeg', location: 'San José, Costa Rica' },
-    { src: '/img1.jpeg', location: 'Encantado' },
-    { src: '/img2.jpeg', location: 'São Francisco de Paula' },
-    { src: '/img5.jpeg', location: 'Porto Seguro' },
+    { src: '/img4.jpeg', location: 'Portland/EUA' },
+    { src: '/img6.jpeg', location: 'Rio de Janeiro/RJ' },
+    { src: '/img7.jpeg', location: 'Vespasiano Corrêa/RS' },
+    { src: '/img8.jpeg', location: 'Seattle/EUA' },
+    { src: '/img3.jpeg', location: 'San José/Costa Rica' },
+    { src: '/img1.jpeg', location: 'Encantado/RS' },
+    { src: '/img2.jpeg', location: 'São Francisco de Paula/RS' },
+    { src: '/img5.jpeg', location: 'Porto Seguro/BA' },
   ];
   const milestones = [
     {
@@ -337,6 +337,7 @@ const About = () => {
       </section>
     </div>
   );
+  
 };
 
 export default About;

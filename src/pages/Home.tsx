@@ -31,7 +31,7 @@ const Home = () => {
     },
     {
       title: 'Excursões',
-      description: 'Realizamos excursões próprias e personalizadas. Quer realizar uma viagem personalizada com seu grupo? Nós organizamos!',
+      description: 'Realizamos excursões próprias e personalizadas. Quer realizar uma viagem exclusiva com seu grupo? Nós organizamos para você!',
       icon: Users
     },
     {
@@ -115,7 +115,7 @@ const Home = () => {
                 Criada em 2021 para atender as demandas de excursões rodoviárias em um período pós-pandemia, a TC Turismo passou a oferecer, em 2023, demais serviços turísticos como venda de passagens aéreas, hospedagens, aluguel de carros, seguro viagem, entre outros serviços.
               </p>
               <p className="mb-6">
-                Esta oferta de serviços conta com vasta experiência do proprietário, Tiago Castro, profissional Turismólogo formado pela PUCRS, além de possuir formação em Guia de Turismo pelo SENAC, entre outras experiências.
+                Esta oferta de serviços conta com a vasta experiência do diretor, Tiago Castro, Turismólogo formado pela PUCRS, além de possuir formação em Guia de Turismo pelo SENAC, entre outras experiências.
               </p>
               <Link 
                 to="/sobre" 

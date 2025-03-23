@@ -48,7 +48,7 @@ const About = () => {
     {
       year: '2025',
       title: 'Foco Corporativo',
-      description: 'Especialização em viagens corporativas e eventos empresariais.'
+      description: 'Especialização em viagens corporativas.'
     }
   ];
 
@@ -94,8 +94,8 @@ const About = () => {
   const values = [
     {
       icon: Award,
-      title: 'Excelência',
-      description: 'Buscamos a excelência em cada detalhe, garantindo que sua experiência seja impecável do início ao fim.'
+      title: 'Atendimento de Excelência',
+      description: 'Buscamos a excelência em cada atendimento, garantindo que sua experiência seja impecável do início ao fim.'
     },
     {
       icon: Users,
@@ -146,7 +146,7 @@ const About = () => {
               />
               <div className="absolute -bottom-6 -left-6 bg-yellow-400 rounded-lg p-4 shadow-lg">
                 <p className="text-blue-900 font-bold text-xl">Desde 2021</p>
-                <p className="text-blue-800">Realizando sonhos</p>
+                <p className="text-blue-800">realizando sonhos!</p>
               </div>
             </div>
           </div>
@@ -160,7 +160,7 @@ const About = () => {
             <div className="bg-blue-700 p-8 rounded-lg shadow-lg">
               <h3 className="text-2xl font-bold mb-4">Nossa Missão</h3>
               <p className="text-gray-200">
-                Proporcionar experiências de viagem excepcionais para nossos clientes corporativos,
+                Proporcionar experiências de viagem excepcionais para nossos clientes,
                 oferecendo soluções personalizadas que atendam às suas necessidades específicas,
                 com eficiência, qualidade e atenção aos detalhes.
               </p>
@@ -168,8 +168,7 @@ const About = () => {
             <div className="bg-blue-700 p-8 rounded-lg shadow-lg">
               <h3 className="text-2xl font-bold mb-4">Nossa Visão</h3>
               <p className="text-gray-200">
-                Ser reconhecida como a principal agência de turismo corporativo do Sul do Brasil,
-                referência em qualidade de serviço, inovação e compromisso com a satisfação do cliente,
+                Ser reconhecida como referência em qualidade de serviço, empenho e compromisso com a satisfação do cliente,
                 contribuindo para o sucesso dos negócios de nossos parceiros.
               </p>
             </div>

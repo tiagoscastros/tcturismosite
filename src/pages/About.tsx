@@ -243,7 +243,7 @@ const About = () => {
     <div className="text-center mb-12">
       <h2 className="text-3xl font-bold text-blue-900 mb-4">Galeria de Momentos</h2>
       <p className="text-gray-600 max-w-3xl mx-auto">
-        Confira alguns momentos especiais de nossas viagens e eventos organizados.
+        Confira alguns momentos especiais de nossas excursões e clientes em viagem!
       </p>
     </div>
 
@@ -321,9 +321,9 @@ const About = () => {
       {/* CTA Section */}
       <section className="py-16 bg-blue-900 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-bold mb-6">Pronto para trabalhar conosco?</h2>
+          <h2 className="text-3xl font-bold mb-6">Vamos começar sua próxima viagem?</h2>
           <p className="text-xl max-w-3xl mx-auto mb-8">
-            Entre em contato e descubra como podemos ajudar sua empresa com soluções personalizadas de viagens corporativas e eventos.
+            Entre em contato conosco e descubra como podemos tornar sua viagem inesquecível!
           </p>
           <Link
             to="/contato"

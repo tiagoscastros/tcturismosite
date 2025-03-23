@@ -22,7 +22,7 @@ const Navbar = () => {
           
           {/* Desktop menu */}
           <div className="hidden md:flex items-center space-x-8">
-            {['/', '/sobre', '/servicos', '/eventos', '/noticias', '/contato'].map((path, index) => (
+            {['/', '/sobre', '/serviços', '/eventos', '/notícias', '/contato'].map((path, index) => (
               <Link 
                 key={index} 
                 to={path} 
@@ -49,7 +49,7 @@ const Navbar = () => {
       {isOpen && (
         <div className="md:hidden bg-white shadow-lg absolute w-full z-40">
           <div className="px-4 pt-4 pb-3 space-y-2">
-            {['/', '/sobre', '/servicos', '/eventos', '/noticias', '/contato'].map((path, index) => (
+            {['/', '/sobre', '/serviços', '/eventos', '/notícias', '/contato'].map((path, index) => (
               <Link 
                 key={index} 
                 to={path} 

@@ -135,7 +135,7 @@ const About = () => {
                 Esta oferta de serviços conta com a vasta experiência do diretor, Tiago Castro, profissional Turismólogo formado pela PUCRS, além de possuir formação em Guia de Turismo pelo SENAC, entre outras experiências como atendente de reservas de hospedagens e profissional de eventos.
               </p>
               <p className="text-gray-600 mb-4">
-                Além disso, a TC Turismo é formada pelos nossos clientes, afinal, são eles que confiam suas viagens, seus sonhos e seus compromissos à agência. Para demonstrar esta simbiose, confira na "Galeria de Momentos" logo abaixo algumas fotos de nossos passeios e nossos clientes em viagens. Inspire-se e venha planejar conosco a sua próxima viagem!
+                Além disso, a TC Turismo é formada pelos nossos clientes, afinal, são eles que confiam suas viagens, seus sonhos e seus compromissos à agência. Para demonstrar esta simbiose, confira na "Galeria de Momentos" logo abaixo algumas fotos de nossos passeios e clientes em viagens. Inspire-se e venha planejar conosco a sua próxima viagem!
               </p>
             </div>
             <div className="relative">

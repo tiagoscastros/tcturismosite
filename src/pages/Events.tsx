@@ -31,18 +31,15 @@ const Events = () => {
               />
             </div>
             <div>
-              <h2 className="text-3xl font-bold text-[#093e72] mb-6">Eventos Personalizados</h2>
+              <h2 className="text-3xl font-bold text-[#093e72] mb-6">Eventos</h2>
               <p className="text-gray-600 mb-4">
-                Além de nossa agenda regular de eventos, oferecemos a organização de eventos personalizados para empresas,
-                adaptados às suas necessidades específicas.
+                Se o evento é importante para você, é importante para nós! Nosso time de especialistas está pronto para ser a agência de turismo oficial.
               </p>
               <p className="text-gray-600 mb-4">
-                Seja uma convenção de vendas, um treinamento corporativo ou uma viagem de incentivo para sua equipe,
-                podemos planejar e executar todo o evento com excelência.
+                Sejam congressos, convenções, reuniões, shows, festividades ou viagens de incentivo, podemos planejar, executar e atender as suas necessidades.
               </p>
               <p className="text-gray-600 mb-6">
-                Nossa equipe de especialistas cuidará de todos os detalhes, desde a escolha do local até a logística de transporte,
-                hospedagem e programação completa.
+                Cuidaremos de todos os detalhes de logística e hospedagem de seu evento!
               </p>
 
               <button className="bg-[#093e72] hover:bg-[#0a4a8a] text-white font-bold py-3 px-6 rounded-lg transition-colors">

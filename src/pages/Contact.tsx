@@ -21,7 +21,7 @@ const Contact = () => {
       icon: MapPin,
       title: 'Atendimento em Todo o Brasil',
       details: 'Atendemos clientes em todo o território nacional',
-      description: 'Em qualquer localização que você esteja, nosso atendimento remoto irá atender suas necessidades'
+      description: 'Em qualquer localização que você esteja, nosso atendimento remoto irá suprir suas necessidades'
     }    
   ];
 

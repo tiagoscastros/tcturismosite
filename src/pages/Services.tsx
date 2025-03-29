@@ -11,9 +11,8 @@ const Services = () => {
       description: 'Realizamos cotações, reservas e emissões para viagens nacionais e internacionais com as principais companhias aéreas do mundo.',
       icon: Plane,
       features: [
-        'Cotações com múltiplas companhias aéreas',
+        'Cotações com foco nas necessidades do cliente',
         'Emissão de bilhetes nacionais e internacionais',
-        'Gestão de programas de fidelidade',
         'Remarcações e cancelamentos',
         'Tarifas corporativas exclusivas'
       ]
@@ -36,31 +35,27 @@ const Services = () => {
       description: 'A ideia é não precisar, mas e se precisar? Conte com o seguro viagem para a tranquilidade em toda sua viagem, seja ela nacional ou internacional.',
       icon: Shield,
       features: [
-        'Coberturas médicas e hospitalares',
+        'Cobertura médica, hospitalar, bagagem e muito mais',
         'Assistência 24h em português',
-        'Cobertura para bagagem extraviada',
-        'Seguro para viagens corporativas',
-        'Opções personalizadas por destino'
+        'Trabalhamos com as melhores seguradoras do mercado',
       ]
     },
     {
-      title: 'Aluguel de Carros',
-      description: 'Não dependa de transfers ou carros por aplicativos. Com o aluguel de carro, você pode fazer a viagem do seu jeito e no seu tempo!',
+      title: 'Transporte terrestre',
+      description: 'Aqui a viagem é feita do seu jeito e no seu tempo!',
       icon: Car,
       features: [
-        'Parceria com as principais locadoras',
-        'Opções de veículos para todos os perfis',
-        'Tarifas especiais para empresas',
-        'Reservas nacionais e internacionais',
-        'Entrega e devolução flexíveis'
+        'Aluguel de carros',
+        'Passagem de ônibus',
+        'Transfer privativo',
       ]
     },
     {
       title: 'Excursões',
-      description: 'Realizamos excursões próprias e personalizadas. Quer realizar uma viagem personalizada com com seu grupo? Nós organizamos para você!',
+      description: 'Realizamos excursões próprias e personalizadas. Quer realizar uma viagem exclusiva com seu grupo? Nós organizamos para você!',
       icon: Users,
       features: [
-        'Excursões corporativas exclusivas',
+        'Excursões corporativas',
         'Viagens de incentivo para equipes',
         'Roteiros personalizados para grupos',
         'Acompanhamento de guia especializado',
@@ -87,8 +82,8 @@ const Services = () => {
       description: 'Sistema completo para gerenciamento de viagens corporativas, com relatórios detalhados e controle de gastos.'
     },
     {
-      title: 'Organização de Eventos',
-      description: 'Planejamento e execução de eventos corporativos, desde pequenas reuniões até grandes convenções.'
+      title: 'Atendimento agilizado',
+      description: 'Seu tempo é precioso, por isso, nosso atendimento é agilizado e feito para você focar no que é mais importante para sua empresa.'
     },
     {
       title: 'Viagens de Incentivo',
@@ -105,7 +100,7 @@ const Services = () => {
       {/* Hero Section */}
       <Hero 
         title="Nossos Serviços" 
-        subtitle="Soluções completas em turismo corporativo e eventos para sua empresa."
+        subtitle="Soluções completas para viagens corporativas e eventos."
         image="https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
       />
       
@@ -202,7 +197,7 @@ const Services = () => {
               </div>
               <h3 className="text-xl font-bold text-blue-900 mb-2">Atendimento Personalizado</h3>
               <p className="text-gray-600">
-                Cada cliente tem um gestor de conta dedicado, garantindo um atendimento personalizado e eficiente.
+                Sua empresa é única, entendemos isso e garantimos um atendimento personalizado para suas necessidades.
               </p>
             </div>
             
@@ -212,7 +207,7 @@ const Services = () => {
               </div>
               <h3 className="text-xl font-bold text-blue-900 mb-2">Segurança e Confiabilidade</h3>
               <p className="text-gray-600">
-                Trabalhamos apenas com fornecedores confiáveis e oferecemos suporte 24h para qualquer emergência.
+                Trabalhamos apenas com fornecedores confiáveis e oferecemos suporte 24h para qualquer emergência em viagem.
               </p>
             </div>
             
@@ -283,7 +278,7 @@ const Services = () => {
                 <div className="md:w-1/2 pr-8 text-right hidden md:block">
                   <h3 className="text-xl font-bold text-blue-900 mb-2">Execução Impecável</h3>
                   <p className="text-gray-600">
-                    Cuidamos de todos os detalhes para garantir que sua viagem ou evento ocorra sem contratempos.
+                    Cuidamos de todos os detalhes para garantir que sua viagem ocorra sem contratempos.
                   </p>
                 </div>
                 <div className="hidden md:flex items-center justify-center">
@@ -294,7 +289,7 @@ const Services = () => {
                 <div className="md:w-1/2 pl-8 md:hidden">
                   <h3 className="text-xl font-bold text-blue-900 mb-2">Execução Impecável</h3>
                   <p className="text-gray-600">
-                    Cuidamos de todos os detalhes para garantir que sua viagem ou evento ocorra sem contratempos.
+                    Cuidamos de todos os detalhes para garantir que sua viagem ocorra sem contratempos.
                   </p>
                 </div>
               </div>
@@ -309,7 +304,7 @@ const Services = () => {
                 <div className="md:w-1/2 pl-8">
                   <h3 className="text-xl font-bold text-blue-900 mb-2">Acompanhamento e Suporte</h3>
                   <p className="text-gray-600">
-                    Oferecemos suporte contínuo durante toda a viagem ou evento, garantindo tranquilidade e segurança.
+                    Oferecemos suporte contínuo durante toda a viagem, garantindo tranquilidade e segurança.
                   </p>
                 </div>
               </div>

@@ -9,7 +9,7 @@ const Contact = () => {
       icon: Phone,
       title: 'Telefone',
       details: '(51) 98055-6647',
-      description: 'Disponível de segunda a sexta, das 9h às 18h'
+      description: 'Disponível de segunda a sexta, das 9h às 18h Atendimento 24 horas para cliente em viagem'
     },
     {
       icon: Mail,

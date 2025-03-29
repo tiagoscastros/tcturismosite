@@ -58,7 +58,7 @@ const Services = () => {
         'Excursões corporativas',
         'Viagens de incentivo para equipes',
         'Roteiros personalizados para grupos',
-        'Acompanhamento de guia especializado',
+        'Guia de Turismo CADASTUR',
         'Logística completa de transporte'
       ]
     },

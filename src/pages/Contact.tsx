@@ -57,10 +57,6 @@ const Contact = () => {
                 Estamos prontos para atender às suas necessidades de viagem.
                 Preencha o formulário ao lado e entraremos em contato o mais breve possível.
               </p>
-              <p className="text-gray-600 mb-4">
-                Se preferir, entre em contato diretamente pelos canais acima ou agende uma visita
-                em nosso escritório para conversarmos pessoalmente sobre suas necessidades.
-              </p>
               <p className="text-gray-600 mb-8">
                 Nossa equipe de especialistas está pronta para oferecer soluções personalizadas
                 que atendam as suas necessidades.
